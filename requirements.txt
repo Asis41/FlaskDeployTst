@@ -4,3 +4,4 @@ langchain_experimental
 huggingface_hub
 gunicorn
 pandas
+flask
