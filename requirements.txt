@@ -1,4 +1,4 @@
-faster_whisper flask
+faster_whisper
 langchain
 langchain_experimental
 huggingface_hub
